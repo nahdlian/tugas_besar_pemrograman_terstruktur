@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\tugas_besar\tugas_besar\bin\Debug\tugas_besar.exe.config
+c:\users\user\documents\visual studio 2015\Projects\tugas_besar\tugas_besar\bin\Debug\tugas_besar.exe
+c:\users\user\documents\visual studio 2015\Projects\tugas_besar\tugas_besar\bin\Debug\tugas_besar.pdb
+c:\users\user\documents\visual studio 2015\Projects\tugas_besar\tugas_besar\bin\Debug\MySql.Data.dll
+c:\users\user\documents\visual studio 2015\Projects\tugas_besar\tugas_besar\bin\Debug\MySql.Data.Entity.dll
+c:\users\user\documents\visual studio 2015\Projects\tugas_besar\tugas_besar\bin\Debug\MySql.Web.dll
+c:\users\user\documents\visual studio 2015\Projects\tugas_besar\tugas_besar\obj\Debug\tugas_besar.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\tugas_besar\tugas_besar\obj\Debug\tugas_besar.Login.resources
+c:\users\user\documents\visual studio 2015\Projects\tugas_besar\tugas_besar\obj\Debug\tugas_besar.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\tugas_besar\tugas_besar\obj\Debug\tugas_besar.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\tugas_besar\tugas_besar\obj\Debug\tugas_besar.exe
+c:\users\user\documents\visual studio 2015\Projects\tugas_besar\tugas_besar\obj\Debug\tugas_besar.pdb
+c:\users\user\documents\visual studio 2015\Projects\tugas_besar\tugas_besar\obj\Debug\tugas_besar.FormMenu.resources
+c:\users\user\documents\visual studio 2015\Projects\tugas_besar\tugas_besar\obj\Debug\tugas_besar.FormEntry.resources
